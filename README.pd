@@ -1,1 +1,56 @@
 "# Amazon Prime Movies Dataset Project" 
+
+In this project, Amazon Prime data was analyzed using Power BI and Python, with various visualizations and analyses. The project provides comprehensive information for users interested in both the Power BI dashboard and Jupyter Notebook analysis.
+
+Objective
+The purpose of this project is to extract insights by analyzing Amazon Prime data using different analytical methods. The project demonstrates the distribution of data by genre, city, rating, and years, as well as overall statistical insights.
+
+Technologies Used
+
+Python Libraries:
+- Pandas: For reading, cleaning, and managing data.
+- NumPy: For performing statistical operations.
+- Seaborn and Matplotlib: For data visualization.
+
+Power BI:
+- For visualizing data by cities, genres, years, and types (TV and Movie).
+
+____________________________________________________________________________________
+
+Jupyter Notebook Analysis
+The analyses performed in Jupyter Notebook using Python include:
+
+- Data Cleaning and preparation.
+- Statistical analysis and exploration of distributions by genre, year, and city.
+Visualizations:
+- Using Seaborn and Matplotlib:
+- Distribution by genre and rating.
+- Trends of TV and Movie types over the years.
+
+Power BI Dashboard
+In the Power BI dashboard, the following visualizations were created:
+
+- Field Map: Distribution by cities.
+- Donut Chart: Distribution by TV and Movie types.
+- Area Chart: Trends of TV and Movie types by years.
+- Stacked Bar Chart: Distribution by genre and rating.
+- Cards: Total counts of genres and ratings
+
+Results
+The project results show the distribution of Amazon Prime content by genre, rating, city, and years. Key findings include:
+
+- Genre Distribution: Indicates which genres are more popular.
+- Yearly Trends: Shows the increase or decrease of TV and Movie types over the years.
+- City Distribution: Highlights the cities with the most Amazon Prime users.
+- Overall Statistics: Shows total counts of ratings and genres, highlighting the most highly-rated genres.
+
+
+
+
+
+
+
+
+
+
+
